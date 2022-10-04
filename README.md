@@ -1,5 +1,3 @@
 # IPC-Workshops
 
-These are backup file of college workshop
-
-language: C
+These are the backup files of college C language workshop

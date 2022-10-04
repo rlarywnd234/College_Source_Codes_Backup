@@ -1,0 +1,37 @@
+김교중@DESKTOP-RBF888I MINGW64 ~/Documents/Seneca/CPR101 Final Project (master)
+$ gcc fundamentals.c
+
+김교중@DESKTOP-RBF888I MINGW64 ~/Documents/Seneca/CPR101 Final Project (master)
+$ git status -v
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fundamentals.c
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        #/
+        CP4P_Final_Assignment_Plan_calendar-days.xlsx
+        Final Project Overview_2214.docx
+        Programming Comments.docx
+        Programming Test Cases.docx
+        Project Source Code.zip
+        Project Source Code/
+        a.exe
+        git basics.docx
+        mingw-w64-install.exe
+        test case template.xlsx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+김교중@DESKTOP-RBF888I MINGW64 ~/Documents/Seneca/CPR101 Final Project (master)
+$ git log
+commit 67d225f97ced2e13ffb755ee3206750e27b71d1f (HEAD -> master)
+Author: KKJ <rygoogoog97@gmail.com>
+Date:   Sun Aug 8 16:22:03 2021 +0900
+
+    fundamentals.c
+
+김교중@DESKTOP-RBF888I MINGW64 ~/Documents/Seneca/CPR101 Final Project (master)
+$
